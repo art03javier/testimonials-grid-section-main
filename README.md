@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](.images/screenshot.jpg)
+![Alt text](./images/screenshot.jpg)
 
 ## My process
 

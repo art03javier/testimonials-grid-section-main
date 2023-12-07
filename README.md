@@ -38,39 +38,37 @@ Users should be able to:
 
 ### What I learned
 
-# Testimonial Challenge
-
-## HTML Structure:
+1. ## HTML Structure:
 
 - Used semantic HTML elements like `<!DOCTYPE html>`, `<html>`, `<head>`, and `<body>`.
 - Structured the content using div elements, assigning meaningful IDs and classes.
 
-## CSS Styling:
+2. ## CSS Styling:
 
 - Linked an external stylesheet (`style.css`) to apply styles to the HTML elements.
 - Utilized flexbox and grid layout for creating a responsive and visually appealing grid structure.
 - Set up styling for text, images, and other elements to achieve a consistent design.
 
-## Responsive Design:
+3. ## Responsive Design:
 
 - Included a viewport meta tag for responsive behavior across various devices.
 - Used media queries or responsive design techniques to adapt the layout for different screen sizes.
 
-## Image Handling:
+4. ## Image Handling:
 
 - Incorporated images (`<img>`) within the grid to represent profile pictures and decorative elements.
 - Used SVG images for decorative patterns (e.g., the quotation mark).
 
-## Google Fonts Integration:
+5. ## Google Fonts Integration:
 
 - Linked to Google Fonts to import the "Barlow Semi Condensed" font for use in the project.
 
-## Content Structure:
+6. ## Content Structure:
 
 - Organized testimonials into a grid layout with multiple sections for different testimonials.
 - Included profile pictures, names, verification status, and the actual testimonials.
 
-## Accessibility:
+7. ## Accessibility:
 
 - Added alternative text (`alt` attribute) to images for better accessibility.
 
